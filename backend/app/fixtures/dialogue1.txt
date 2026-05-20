@@ -1,0 +1,258 @@
+[The video call connects. Both cameras turn on.]
+
+Sophia:
+Good afternoon, Michael. Can you hear me properly?
+
+Michael:
+Yes, I can hear you perfectly. How are you today?
+
+Sophia:
+I’m doing well, thank you. How about you?
+
+Michael:
+Pretty good. It’s been a busy week, but I’ve really been looking forward to this meeting.
+
+Sophia:
+That’s great to hear. We’re excited to finally show you the first working prototype. The team spent a lot of time making sure it reflects the ideas from our earlier discussions.
+
+Michael:
+Perfect. I know everyone has been working hard on it.
+
+Sophia:
+Absolutely. Before I share my screen, I just want to quickly go over today’s agenda. First, I’ll walk you through the prototype and explain the main features. Then we can discuss your feedback, possible improvements, and the timeline for the next phase.
+
+Michael:
+Sounds like a good plan.
+
+Sophia:
+Alright, I’m sharing my screen now. Let me know once you can see the dashboard.
+
+Michael:
+Yes, I can see it now.
+
+Sophia:
+Great. So this is the main homepage users will see after logging in. We decided to keep the design clean and modern with easy navigation.
+
+Michael:
+I like the overall layout already. It feels professional and not too crowded.
+
+Sophia:
+That was exactly our goal. We wanted users to access important information quickly without feeling overwhelmed.
+
+Michael:
+I think that’s important, especially since many of our employees aren’t very technical.
+
+Sophia:
+Exactly. User experience was one of our biggest priorities. You’ll notice that the main menu is placed on the left side. Users can access projects, reports, messages, analytics, and settings from here.
+
+Michael:
+I see. And are those sections customizable?
+
+Sophia:
+Yes. Depending on the user role, different options can appear. For example, administrators will have access to advanced analytics and user management tools, while regular employees will only see their assigned tasks and reports.
+
+Michael:
+That’s very useful. We definitely need different access levels.
+
+Sophia:
+We also added quick-access widgets on the dashboard. These allow users to immediately see project progress, pending tasks, and recent updates.
+
+Michael:
+I really like the progress section. It gives a nice overview.
+
+Sophia:
+Thank you. We wanted managers to quickly understand project status without opening multiple pages.
+
+Michael:
+Makes sense.
+
+Sophia:
+Now, if we move to the “Projects” tab, users can create new projects, assign team members, set deadlines, and upload files.
+
+Michael:
+Can multiple people edit a project at the same time?
+
+Sophia:
+Yes. We included collaborative features so teams can work together in real time.
+
+Michael:
+That’s excellent. Collaboration was one of our biggest requests.
+
+Sophia:
+We remembered that from our first meeting. We also added automatic saving so users won’t lose progress if they accidentally close the page.
+
+Michael:
+That’s honestly a lifesaver.
+
+Sophia:
+Exactly. Small details like that can improve the experience significantly.
+
+Michael:
+I agree.
+
+Sophia:
+Now let me show you the reporting section. Users can generate reports based on project performance, team activity, deadlines, and overall productivity.
+
+Michael:
+The graphs look really clean.
+
+Sophia:
+Thank you. We used simple visual charts so the information is easier to understand during presentations and meetings.
+
+Michael:
+Can reports be exported?
+
+Sophia:
+Yes. Users can export reports as PDF or Excel files.
+
+Michael:
+Perfect. That’s something our finance department will definitely use.
+
+Sophia:
+We also added filters so users can sort reports by department, project type, or time period.
+
+Michael:
+Very nice. I think that’ll save people a lot of time.
+
+Sophia:
+That’s the idea. We wanted to reduce manual work wherever possible.
+
+Michael:
+I appreciate that.
+
+Sophia:
+Now I’ll switch to the mobile version. As you mentioned in earlier discussions, many employees use tablets and phones while traveling.
+
+Michael:
+Yes, especially the sales team.
+
+Sophia:
+Here you can see how the interface adjusts automatically for smaller screens.
+
+Michael:
+Wow, that actually looks very smooth.
+
+Sophia:
+We spent extra time optimizing the mobile experience. Buttons are larger, menus collapse automatically, and users can swipe between sections.
+
+Michael:
+I think the team will really like this.
+
+Sophia:
+That’s great to hear. Do you think the text size is comfortable enough?
+
+Michael:
+Mostly yes, but maybe the navigation buttons could be slightly bigger.
+
+Sophia:
+Noted. We can definitely improve the spacing and button size in the next revision.
+
+Michael:
+Perfect.
+
+Sophia:
+Another feature we added is the notification system. Right now it supports task reminders and deadline alerts.
+
+Michael:
+Can users customize notifications?
+
+Sophia:
+Yes. They can choose email notifications, in-app alerts, or both.
+
+Michael:
+Excellent. That flexibility is important.
+
+Sophia:
+We also included a dark mode option because several beta testers requested it during internal testing.
+
+Michael:
+That’s a nice touch. A lot of people prefer dark mode these days.
+
+Sophia:
+Exactly. We wanted users to feel comfortable using the platform for long periods.
+
+Michael:
+How secure is the system at this stage?
+
+Sophia:
+Good question. Right now, we already have secure login authentication, encrypted passwords, and role-based access control. In the next phase, we plan to add two-factor authentication as well.
+
+Michael:
+That’s reassuring. Security is very important for us.
+
+Sophia:
+Absolutely. We take that very seriously.
+
+Michael:
+Overall, I’m honestly impressed with the progress so far.
+
+Sophia:
+Thank you. The team will be happy to hear that.
+
+Michael:
+You can tell a lot of thought went into the design and functionality.
+
+Sophia:
+We really focused on balancing simplicity with useful features.
+
+Michael:
+I think you achieved that balance.
+
+Sophia:
+That’s great feedback. Are there any additional features you’d like us to explore in future updates?
+
+Michael:
+Maybe integration with calendar apps like Outlook or Google Calendar.
+
+Sophia:
+That’s actually already on our roadmap for Phase Two.
+
+Michael:
+Perfect.
+
+Sophia:
+We’re also considering adding AI-based suggestions later, like deadline predictions and workflow recommendations.
+
+Michael:
+That sounds very interesting.
+
+Sophia:
+It’s still early, but we think it could provide real value for project management teams.
+
+Michael:
+Definitely.
+
+Sophia:
+As for the timeline, we’ll make the revisions discussed today and prepare an updated prototype within the next ten days.
+
+Michael:
+That works for us.
+
+Sophia:
+After your approval, we can move into full development and testing.
+
+Michael:
+Excellent. I think we’re heading in a very positive direction.
+
+Sophia:
+I’m glad you feel that way.
+
+Michael:
+Well, thank you again for the detailed walkthrough.
+
+Sophia:
+You’re very welcome. Thank you for your feedback and support throughout the process.
+
+Michael:
+Of course. Looking forward to the next update.
+
+Sophia:
+Same here. Have a great rest of your day, Michael.
+
+Michael:
+You too, Sophia. Bye.
+
+Sophia:
+Bye.
+
+[Video Call Ends]
